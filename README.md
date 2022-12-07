@@ -1,1 +1,3 @@
-# Kaggle-Hist-Cancer-Transfer
+# Kaggle Histopathologic Cancer Transfer Learning
+
+Using ResNet architecture both with pre-trained and learned weights.
